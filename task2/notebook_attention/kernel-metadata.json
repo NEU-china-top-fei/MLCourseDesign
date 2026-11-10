@@ -1,0 +1,19 @@
+{
+  "id": "neuliandanshi/2026task2-fer-local-attention-ablation",
+  "title": "2026task2 FER Local Attention Ablation",
+  "code_file": "fer_attention.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "2026task2"
+  ],
+  "kernel_sources": [
+    "neuliandanshi/2026task2-fer-transfer-v2"
+  ],
+  "model_sources": []
+}

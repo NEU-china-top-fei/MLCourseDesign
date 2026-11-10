@@ -1,0 +1,16 @@
+{
+  "id": "neuliandanshi/2026task4-retina-patch-unet",
+  "title": "2026task4 Retina Patch UNet",
+  "code_file": "training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026task-4"
+  ],
+  "kernel_sources": [],
+  "dataset_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "neuliandanshi/2026task3-paired-coarse-roi-v26",
+  "title": "2026task3 Paired Coarse ROI V26",
+  "code_file": "train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "machine_shape": "NvidiaTeslaT4",
+  "competition_sources": [
+    "2026task3"
+  ],
+  "dataset_sources": [],
+  "model_sources": [],
+  "kernel_sources": [
+    "neuliandanshi/2026task3-shared-coarse-fine-seeds-v25"
+  ]
+}

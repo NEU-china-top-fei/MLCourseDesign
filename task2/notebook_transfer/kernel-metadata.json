@@ -1,0 +1,22 @@
+{
+  "id": "neuliandanshi/2026task2-fer-transfer-v2",
+  "title": "2026task2 FER Transfer V2",
+  "code_file": "fer_transfer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "2026task2"
+  ],
+  "kernel_sources": [
+    "neuliandanshi/2026task2-fer-gpu",
+    "neuliandanshi/2026task2-fer-convnext",
+    "neuliandanshi/2026task2-fer-resnet50",
+    "neuliandanshi/2026task2-fer-cv-ensemble"
+  ],
+  "model_sources": []
+}

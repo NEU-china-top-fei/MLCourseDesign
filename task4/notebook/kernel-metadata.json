@@ -1,0 +1,14 @@
+{
+  "id": "neuliandanshi/2026task4-vessel-unet-cv",
+  "title": "2026task4 Vessel UNet CV",
+  "code_file": "vessel_training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": ["2026task-4"],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

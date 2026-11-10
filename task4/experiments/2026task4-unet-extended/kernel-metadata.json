@@ -1,0 +1,18 @@
+{
+  "id": "neuliandanshi/2026task4-unet-extended",
+  "title": "2026task4 UNet Extended",
+  "code_file": "training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": [
+    "2026task-4"
+  ],
+  "kernel_sources": [
+    "neuliandanshi/2026task4-vessel-unet-cv"
+  ],
+  "dataset_sources": [],
+  "model_sources": []
+}

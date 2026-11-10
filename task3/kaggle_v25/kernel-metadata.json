@@ -1,0 +1,17 @@
+{
+  "id": "neuliandanshi/2026task3-shared-coarse-fine-seeds-v25",
+  "title": "2026task3 Shared Coarse Fine Seeds V25",
+  "code_file": "train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "competition_sources": [
+    "2026task3"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

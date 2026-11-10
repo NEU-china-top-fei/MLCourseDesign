@@ -1,0 +1,19 @@
+{
+  "id": "neuliandanshi/2026task2-fer-convnext",
+  "title": "2026task2 FER ConvNeXt",
+  "code_file": "fer_improved.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "2026task2"
+  ],
+  "kernel_sources": [
+    "neuliandanshi/2026task2-fer-gpu"
+  ],
+  "model_sources": []
+}
